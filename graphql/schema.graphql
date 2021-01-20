@@ -51,6 +51,7 @@ input deleteAccountId {
 }
 
 input updateAccountInput {
+    id: ID!
     name: String!
     balance: Float!
 }
@@ -64,7 +65,7 @@ extend type Mutation {
     deleteUser(input: deleteUserId! @spread): User @delete
     createAccount(input: createAccountInput! @spread): Account @create
     deleteAccount(input: deleteAccountId! @spread): Account @delete
-    updateAccountInfo(input: updateAccountInput! @spread) Account@
+    updateAccountInfo(input: updateAccountInput! @spread): Account @update
 }
 
 

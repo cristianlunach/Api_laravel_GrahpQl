@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc7cf86c-80bb-42da-bd1c-986afb0731aa" name="Default Changelist" comment="" />
+    <list default="true" id="dc7cf86c-80bb-42da-bd1c-986afb0731aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/graphql/schema.graphql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +165,9 @@
       <option name="presentableId" value="Default" />
       <updated>1611024001398</updated>
       <workItem from="1611024025097" duration="2028000" />
-      <workItem from="1611060715103" duration="15024000" />
+      <workItem from="1611060715103" duration="15792000" />
+      <workItem from="1611147519991" duration="34000" />
+      <workItem from="1611147586242" duration="1980000" />
     </task>
     <servers />
   </component>
